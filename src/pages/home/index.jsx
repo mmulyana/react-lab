@@ -24,4 +24,8 @@ const patterns = [
     name: 'Screen split',
     url: '/screensplit',
   },
+  {
+    name: 'Function as Children',
+    url: '/funcAsChildren',
+  },
 ]
